@@ -1,0 +1,1 @@
+/home/ubuntu2/projects/cma/magento/vendor/magento/module-captcha/view/frontend/web/js/model/captchaList.js

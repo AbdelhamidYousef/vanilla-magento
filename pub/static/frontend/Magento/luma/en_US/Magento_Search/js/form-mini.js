@@ -1,0 +1,1 @@
+/home/ubuntu2/projects/cma/magento/vendor/magento/module-search/view/frontend/web/js/form-mini.js

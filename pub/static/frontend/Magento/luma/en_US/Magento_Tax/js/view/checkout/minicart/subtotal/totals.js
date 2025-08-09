@@ -1,0 +1,1 @@
+/home/ubuntu2/projects/cma/magento/vendor/magento/module-tax/view/frontend/web/js/view/checkout/minicart/subtotal/totals.js

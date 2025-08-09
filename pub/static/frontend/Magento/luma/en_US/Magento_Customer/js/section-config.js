@@ -1,0 +1,1 @@
+/home/ubuntu2/projects/cma/magento/vendor/magento/module-customer/view/frontend/web/js/section-config.js

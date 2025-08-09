@@ -1,0 +1,1 @@
+/home/ubuntu2/projects/cma/magento/vendor/magento/module-checkout/view/frontend/web/js/sidebar.js

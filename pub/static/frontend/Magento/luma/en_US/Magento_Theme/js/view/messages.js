@@ -1,0 +1,1 @@
+/home/ubuntu2/projects/cma/magento/vendor/magento/module-theme/view/frontend/web/js/view/messages.js

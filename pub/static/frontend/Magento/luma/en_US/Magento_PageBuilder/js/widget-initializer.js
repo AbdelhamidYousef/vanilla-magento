@@ -1,0 +1,1 @@
+/home/ubuntu2/projects/cma/magento/vendor/magento/module-page-builder/view/base/web/js/widget-initializer.js
